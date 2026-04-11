@@ -8,6 +8,12 @@
 // console.log(c);
 //ARRAYS
 let userdata=[10,"hello",false,23.3]
-for(index=0;index<userdata.length;index++)
-    console.log(userdata[index]);
+// for(index=0;index<userdata.length;index++)
+//     console.log(userdata[index]);
+    console.log(userdata);
+   // userdata.pop()
+// userdata.shift();
+// userdata.unshift("pandi") 
+console.log(userdata);
+    
     
