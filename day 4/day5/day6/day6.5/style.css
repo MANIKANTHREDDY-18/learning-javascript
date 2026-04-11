@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: #0000ff;
+
+}
+
+.contains {
+    border: 5px solid black;
+
+    width: 400px;
+    height: 400px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+    width: 20em;
+    height: 20em;
+
+}
+.box div{
+    border: 1px solid black;
+}
